@@ -32,6 +32,6 @@ Welcome to our comprehensive e-commerce database solution! This repository conta
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ecommerce-database.git
+   git clone https://github.com/MADEDECHADWICK/Hackathon
 
 
